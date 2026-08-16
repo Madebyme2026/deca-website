@@ -1,6 +1,0 @@
-{
-  "name": "DECA FinSim & Financial Literacy Terminal",
-  "description": "Bento Grid Fintech Terminal & DECA Competition Simulation platform featuring real estate deal analysis, corporate finance DCF models, double-entry ledger schema, macroeconomic engine, and DECA roleplay & cluster exams.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
